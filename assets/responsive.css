@@ -1,0 +1,413 @@
+@media only screen and (max-width: 1440px) {
+    .dtproduk {
+        width: 370px;
+        height: 370px;
+    }
+}
+@media only screen and (max-width: 1280px) {
+    .leftjumbotron {
+        width: 60%;
+    }
+    footer {
+        padding: 50px 30px;
+    }
+    .dtproduk:hover .wrapper23 {
+        transform: translateY(-70%); /* Naikkan gambar ke atas */
+    }
+    .dtproduk {
+        width: 340px;
+        height: 340px;
+    }
+}
+@media only screen and (max-width: 1246px) {
+    .dtproduk:hover .wrapper23 {
+        transform: translateY(-60%); /* Naikkan gambar ke atas */
+    }
+}
+@media only screen and (max-width: 1024px) {
+    .navigation, .jumbotron, .company, .company22 {
+        padding: 0 30px;
+    }
+    .horiz { left: 30px; right: 30px;}
+    .mobile-menu { padding: 0 30px;}
+    .company, .microtext {
+        padding: 30px;
+    }
+    .lefcompany {
+        width: 30%;
+    }
+    .komitment {padding: 50px 30px;}
+    .rightcompany {
+        width: 70%;
+    }
+    .squarelogo {
+        width: 90%;
+    }
+    .squarelogo img {
+        width: 100%;
+    }
+    .layananpart{ padding: 30px 30px 50px 30px;}
+    .parts {width: 49%;}
+    .microtext{
+        font-size: 2em;
+    }
+    footer {
+        padding: 50px 20px;
+    }
+    .rightfooter iframe {
+        width: 250px;
+        height: 150px;
+    }
+    .layanan.pd50 {
+        padding-top:50px;
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+    
+    .dtproduk:hover .wrapper23 {
+        transform: translateY(-80%); /* Naikkan gambar ke atas */
+    }
+    .dtproduk {
+        width: 300px;
+        height: 300px;
+    }
+}
+@media only screen and (max-width: 884px) {
+    /* Hamburger Menu */
+    .navigation nav {
+        display: none;
+    }
+    .hamburger {
+        display: inline;
+        cursor: pointer;
+    }  
+    .hamburger input {
+        display: none;
+    } 
+    .hamburger svg {
+        /* The size of the SVG defines the overall size */
+        height: 3em;
+        /* Define the transition for transforming the SVG */
+        transition: transform 600ms cubic-bezier(0.4, 0, 0.2, 1);
+    }
+    .line {
+        fill: none;
+        stroke: white;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 3;
+        /* Define the transition for transforming the Stroke */
+        transition: stroke-dasharray 600ms cubic-bezier(0.4, 0, 0.2, 1),
+                    stroke-dashoffset 600ms cubic-bezier(0.4, 0, 0.2, 1);
+    }
+    .line-top-bottom {
+        stroke-dasharray: 12 63;
+    }
+    
+    .hamburger input:checked + svg {
+        transform: rotate(-45deg);
+    }
+    
+    .hamburger input:checked + svg .line-top-bottom {
+        stroke-dasharray: 20 300;
+        stroke-dashoffset: -32.42;
+    }
+    .jumbotron {
+        flex-direction: column;
+        padding-top:0 ;
+        padding-bottom: 0;
+    }
+    .leftjumbotron, .rightjumbotron {
+        width: 100%;
+    }
+    .leftjumbotron {
+        margin-bottom: 20px;
+    }
+    .company, .company22 {
+        flex-direction: column;
+        padding-bottom: 50px;
+    }
+    .lefcompany, .rightcompany, .leftcompanynew {
+        width: 100%;
+    }
+    .squarelogo {
+        width: 50%;
+    }
+    .squarelogo img {
+        width: 100%;
+    }
+    .parts img { width: 150px; height: 150px;}
+    .microtext {
+        font-size: 1.5em;
+    }
+    .rightfooter iframe {
+        width: 200px;
+        height: 150px;
+    }
+    .mobile-menu {
+        width: 100%;
+        display: flex;
+        color: #000;
+        position: absolute;
+        left: 0;
+        top: 100px;
+        padding: 0 30px;
+        z-index: 999;
+        transition: all .5s ease;
+        display: none;
+        transform: translateY(20px);
+        opacity: 0;
+    }
+    .mobile-menu.show {
+        display: block;
+        transform: translateY(0);
+        opacity: 1;
+        animation: moveUp 0.5s ease-in-out;
+    }
+    .mobile-menu.close {
+        display: none;
+        animation: moveUp2 0.5s ease-in-out;
+    }
+    
+    .mobile-menu nav {
+        width: 100%;
+        display: flex;
+        background: #c8ded2;
+    }
+    .mobile-menu nav ul {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        gap: 0;
+    }
+    .mobile-menu nav ul a {
+        width: 100%;
+    }
+    .mobile-menu nav ul a li{
+        padding: 15px;
+    }
+    @keyframes moveUp {
+        from {
+            transform: translateY(25px);
+            opacity: 0;
+        }
+        to {
+            transform: translateY(0);
+            opacity: 1;
+        }
+    }
+    @keyframes moveUp2 {
+        from {
+            transform: translateY(0);
+            opacity: 1;
+        }
+        to {
+            transform: translateY(25px);
+            opacity: 0;
+        }
+    }
+
+    .element {
+        animation: moveUp 1s ease-in-out;
+    }
+    .dtproduk {
+        width: 250px;
+        height: 250px;
+    }
+    .desc {
+        font-size: 12px;
+    }
+    .dtproduk:hover .wrapper23 {
+        transform: translateY(-100%); /* Naikkan gambar ke atas */
+    }
+    .setdiv {width: 100%;margin-bottom: 50px;}
+    .hide360 {
+        display: none;
+    }
+    .rightcompany {
+        margin-top: 20px;
+        font-size: 14px;
+    }
+}
+
+/* end tampilan tablet */
+@media only screen and (max-width: 820px) {
+    
+}
+@media only screen and (max-width: 800px) {
+    footer {
+        flex-direction: column;
+    }
+    footer div {
+        width: 100%;
+    }
+    .rightfooter iframe {
+        width: 200px;
+        height: 150px;
+        transform: translate(0);
+    }
+    .rightfooter span {
+        margin-bottom: 5px;
+    }
+}
+/* end table apple */
+@media only screen and (max-width: 768px) {
+    .dtproduk {
+        width: 320px;
+        height: 320px;
+    }
+    .desc {
+        height: 320px;
+    }
+}
+/* end tampilan tablet mini */
+@media only screen and (max-width: 600px) {
+    .navigation, .jumbotron, .company, .company22 {
+        padding: 0 20px;
+    }
+    .company {width: 100%;padding: 0;}
+    .company22, .setdiv {
+        width: 100%;
+    }
+    .company.mt0 {
+        padding: 0;
+    }
+    .horiz { left: 20px; right: 20px;}
+    .mobile-menu { padding: 0 20px;}
+    .search-box {
+        display: none;
+    }
+    .leftjumbotron h1 {
+        font-size: 1.5em;
+        margin-top: 25px;
+    }
+    .leftjumbotron h1 span {
+        font-size: 1em;
+    }
+    .leftjumbotron p {
+        font-size: 1em;
+        margin-top: 20px;
+    }
+    .btnCall div { margin-top: 20px;}
+    .leftcompany {
+        display: flex;
+        justify-content: center;
+    }
+    .fx {
+        flex-direction: column;
+        margin: 50px 0;
+    }
+    .fx div {margin: 0;}
+    .fx.wrap {
+        margin-top: 0;
+        flex-direction: row;
+        gap: 10px;
+        justify-content: center;
+    }
+    .fx.wrap img {
+        width: 100px;
+    }
+    .layananpart {
+        padding: 0 20px;
+        flex-direction: column;
+    }
+    .parts {width: 100%;margin-bottom: 20px;}
+    .parts img {
+        width: 100px;
+        height: auto;
+        aspect-ratio: 1/1;
+    }
+    .parts-isi {
+        width: 100%;
+    }
+    .parts-isi h3 {
+        font-size: 1.2em;
+        margin-bottom: 5px;
+    }
+    .parts-isi p {
+        font-size: .9em;
+    }
+    .microtext {
+        padding: 20px;
+        font-size: 1em;
+    }
+    .leftcompanynew {
+        margin: 30px 0;
+    }
+    .komitment {
+        padding: 100px 20px;
+    }
+    .komitmen-judul {
+        padding: 30px 15px;
+    }
+    .fxnew {
+        flex-wrap: wrap;
+        gap: 0;
+    }
+    .cardsd {
+        width: 45%;
+        margin-bottom: 20px;
+    }
+    .cardsd img {
+        width: 80px;
+        height: 80px;
+        object-fit: cover;
+        aspect-ratio: 1/1;
+    }
+    .cardsd span {
+        font-size: 1em;
+    }
+    .cardsd p {font-size: .9em;}
+    .testimoni {
+        padding: 50px 5px;
+    }
+    .testimoni h2 {
+        font-size: 1.5em;
+    }
+    .imgswiper {
+        margin-top: 25px;
+    }
+    .namatesti {width: 100%; text-align: center;font-size: 1em;}
+    .txttesti {width: 85%; text-align: center;font-size: 0.9em;margin-bottom: 25px;}
+    .leftfooter {
+        margin-bottom: 15px;
+    }
+    .sosmed {
+        margin-top: 30px;
+        justify-content: center;
+    }
+    .galleri-foto {
+        padding: 50px 0;
+        justify-content: space-between;
+        gap: 0 0 20px 0;
+    }
+    .imgs {
+        width: 45%;
+        height: auto;
+        aspect-ratio: 1/1.2;
+    }
+    .btnsosmed{width: 250px;justify-content: center;}
+    .fx.sosmedd {margin-top: 0;}
+    .dtproduk {
+        width: 49%;
+        height: auto;
+    }
+    .desc p:nth-child(3){
+        display: none;
+    }
+    .judulKatalog { gap:25px;padding:0 20px; }
+    .judulKatalog img { width: 80px; }
+    .rightcompany {
+        padding: 0 20px;
+    }
+}
+/* end tampilan sedengan */
+@media only screen and (max-width: 426px) {
+    
+}
+@media only screen and (max-width: 360px) {
+    header {
+        height: auto;
+    }
+}
+/* end tampilan kecil */
