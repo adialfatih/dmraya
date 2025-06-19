@@ -116,6 +116,21 @@
                 
             </div>
         </section>
+        <section class="kerja-sama">
+            <div class="kerja-sama-judul">
+                <h2>Bekerja Sama Dengan</h2>
+            </div>
+            <div class="new-profile">
+                <div class="nplogo">
+                    <img src="<?=base_url('assets/');?>Terus-berinovasi2.png" alt="Kerja Sama" loading="lazy">
+                </div>
+                <div class="nptext">
+                    <p><strong>Pilarbio</strong> adalah grup bisnis yang berfokus pada layanan R&D, produksi, pemasaran, dan pengujian untuk formulasi agrokimia. Dengan pengalaman lebih dari 60 tahun di pasar global, kami bertujuan untuk menjadi salah satu perusahaan agrokimia terbaik di dunia. Grup kami memiliki tiga perusahaan teknologi tinggi yang telah disertifikasi oleh pemerintah dan kami memiliki dua basis produksi modern di Shanghai dan Jiangsu. Dengan lebih dari 700 karyawan. Jaringan layanan global kami mencakup lebih dari 100 negara dan wilayah. Setiap tahun, kami memberikan produk perlindungan tanaman berkualitas internasional dan layanan teknis profesional kepada jutaan petani di lima benua.
+                    </p>
+                    <p>Misi kami adalah "<em>Terus berinovasi untuk panen berkualitas</em>". Kami berpusat pada pelanggan, berfokus pada inovasi dalam teknologi, produk, dan layanan untuk meningkatkan efisiensi pertanian. Kami membantu petani meningkatkan kualitas dan hasil panen, meningkatkan keuntungan, dan meningkatkan keamanan pangan.</p>
+                </div>
+            </div>
+        </section>
         <section class="layanan">
             <h2>Layanan Kami</h2>
             <div class="layananpart">
