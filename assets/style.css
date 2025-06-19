@@ -214,6 +214,7 @@ main {
     display: flex;
     justify-content: space-between;
 }
+
 .company.mt0 {
     padding: 0 100px 100px 100px;
 }
@@ -906,7 +907,7 @@ a {
     }
 }
 
-/* Keyframes for slideIn animation */
+/* Keyframes for slideIn animation */ 
 @keyframes slideIn {
     from {
         transform: translateY(-50px);
@@ -930,4 +931,39 @@ a {
 }
 @keyframes l13{ 
   100%{transform: rotate(1turn)}
+}
+/* new tambahan */
+.kerja-sama {
+    width: 100%;
+    padding: 0 100px;
+    margin: -80px 0 100px 0;
+    display: flex;
+    flex-direction: column;
+}
+.kerja-sama-judul {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.kerja-sama-judul h2 {
+    color: #6b9149;
+    border-bottom: 4px solid #6b9149;
+}
+.new-profile {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 30px;
+    gap:40px;
+}
+.nplogo {
+    background:transparent;
+}
+.nptext p {
+    font-size: 1.2em;
+    text-align: justify;
+    margin-bottom: 15px;
+}
+.nptext p strong {
+    color: red;
 }

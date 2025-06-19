@@ -1,7 +1,7 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-$config['base_url'] = 'https://damayraya.com/';
+$config['base_url'] = 'http://localhost:8080/_damayraya/';
 
 $config['index_page'] = '';
 

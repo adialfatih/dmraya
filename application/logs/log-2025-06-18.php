@@ -2568,3 +2568,90 @@ INFO - 2025-06-18 13:07:15 --> Controller Class Initialized
 INFO - 2025-06-18 13:07:15 --> File loaded: /home/damayray/public_html/application/views/notfoundview.php
 INFO - 2025-06-18 13:07:15 --> Final output sent to browser
 DEBUG - 2025-06-18 13:07:15 --> Total execution time: 0.0645
+INFO - 2025-06-18 15:26:07 --> Config Class Initialized
+INFO - 2025-06-18 15:26:07 --> Hooks Class Initialized
+DEBUG - 2025-06-18 15:26:07 --> UTF-8 Support Enabled
+INFO - 2025-06-18 15:26:07 --> Utf8 Class Initialized
+INFO - 2025-06-18 15:26:07 --> URI Class Initialized
+DEBUG - 2025-06-18 15:26:07 --> No URI present. Default controller set.
+INFO - 2025-06-18 15:26:07 --> Router Class Initialized
+INFO - 2025-06-18 15:26:07 --> Output Class Initialized
+INFO - 2025-06-18 15:26:07 --> Security Class Initialized
+DEBUG - 2025-06-18 15:26:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-06-18 15:26:07 --> Input Class Initialized
+INFO - 2025-06-18 15:26:07 --> Language Class Initialized
+INFO - 2025-06-18 15:26:07 --> Loader Class Initialized
+INFO - 2025-06-18 15:26:07 --> Helper loaded: security_helper
+INFO - 2025-06-18 15:26:07 --> Helper loaded: url_helper
+INFO - 2025-06-18 15:26:07 --> Helper loaded: form_helper
+INFO - 2025-06-18 15:26:07 --> Database Driver Class Initialized
+ERROR - 2025-06-18 15:26:07 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'damayray_userreal'@'localhost' (using password: YES) C:\xampp\htdocs\_damayraya\system\database\drivers\mysqli\mysqli_driver.php 201
+ERROR - 2025-06-18 15:26:07 --> Unable to connect to the database
+INFO - 2025-06-18 15:26:07 --> Language file loaded: language/english/db_lang.php
+INFO - 2025-06-18 15:26:34 --> Config Class Initialized
+INFO - 2025-06-18 15:26:34 --> Hooks Class Initialized
+DEBUG - 2025-06-18 15:26:34 --> UTF-8 Support Enabled
+INFO - 2025-06-18 15:26:34 --> Utf8 Class Initialized
+INFO - 2025-06-18 15:26:34 --> URI Class Initialized
+DEBUG - 2025-06-18 15:26:34 --> No URI present. Default controller set.
+INFO - 2025-06-18 15:26:34 --> Router Class Initialized
+INFO - 2025-06-18 15:26:34 --> Output Class Initialized
+INFO - 2025-06-18 15:26:34 --> Security Class Initialized
+DEBUG - 2025-06-18 15:26:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-06-18 15:26:34 --> Input Class Initialized
+INFO - 2025-06-18 15:26:34 --> Language Class Initialized
+INFO - 2025-06-18 15:26:34 --> Loader Class Initialized
+INFO - 2025-06-18 15:26:34 --> Helper loaded: security_helper
+INFO - 2025-06-18 15:26:34 --> Helper loaded: url_helper
+INFO - 2025-06-18 15:26:34 --> Helper loaded: form_helper
+INFO - 2025-06-18 15:26:34 --> Database Driver Class Initialized
+DEBUG - 2025-06-18 15:26:34 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2025-06-18 15:26:34 --> Session: Class initialized using 'files' driver.
+INFO - 2025-06-18 15:26:34 --> Controller Class Initialized
+INFO - 2025-06-18 20:26:34 --> File loaded: C:\xampp\htdocs\_damayraya\application\views\halaman_utama.php
+INFO - 2025-06-18 20:26:34 --> Final output sent to browser
+DEBUG - 2025-06-18 20:26:34 --> Total execution time: 0.0611
+INFO - 2025-06-18 15:31:03 --> Config Class Initialized
+INFO - 2025-06-18 15:31:03 --> Hooks Class Initialized
+DEBUG - 2025-06-18 15:31:03 --> UTF-8 Support Enabled
+INFO - 2025-06-18 15:31:03 --> Utf8 Class Initialized
+INFO - 2025-06-18 15:31:03 --> URI Class Initialized
+INFO - 2025-06-18 15:31:03 --> Router Class Initialized
+INFO - 2025-06-18 15:31:03 --> Output Class Initialized
+INFO - 2025-06-18 15:31:03 --> Security Class Initialized
+DEBUG - 2025-06-18 15:31:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-06-18 15:31:03 --> Input Class Initialized
+INFO - 2025-06-18 15:31:03 --> Language Class Initialized
+INFO - 2025-06-18 15:31:03 --> Loader Class Initialized
+INFO - 2025-06-18 15:31:03 --> Helper loaded: security_helper
+INFO - 2025-06-18 15:31:03 --> Helper loaded: url_helper
+INFO - 2025-06-18 15:31:03 --> Helper loaded: form_helper
+INFO - 2025-06-18 15:31:03 --> Database Driver Class Initialized
+DEBUG - 2025-06-18 15:31:03 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2025-06-18 15:31:03 --> Session: Class initialized using 'files' driver.
+INFO - 2025-06-18 15:31:03 --> Controller Class Initialized
+INFO - 2025-06-18 20:31:03 --> File loaded: C:\xampp\htdocs\_damayraya\application\views\halaman_produk.php
+INFO - 2025-06-18 20:31:03 --> Final output sent to browser
+DEBUG - 2025-06-18 20:31:03 --> Total execution time: 0.0634
+INFO - 2025-06-18 17:28:47 --> Config Class Initialized
+INFO - 2025-06-18 17:28:47 --> Hooks Class Initialized
+DEBUG - 2025-06-18 17:28:47 --> UTF-8 Support Enabled
+INFO - 2025-06-18 17:28:47 --> Utf8 Class Initialized
+INFO - 2025-06-18 17:28:47 --> URI Class Initialized
+INFO - 2025-06-18 17:28:47 --> Router Class Initialized
+INFO - 2025-06-18 17:28:47 --> Output Class Initialized
+INFO - 2025-06-18 17:28:47 --> Security Class Initialized
+DEBUG - 2025-06-18 17:28:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-06-18 17:28:47 --> Input Class Initialized
+INFO - 2025-06-18 17:28:47 --> Language Class Initialized
+INFO - 2025-06-18 17:28:47 --> Loader Class Initialized
+INFO - 2025-06-18 17:28:47 --> Helper loaded: security_helper
+INFO - 2025-06-18 17:28:47 --> Helper loaded: url_helper
+INFO - 2025-06-18 17:28:47 --> Helper loaded: form_helper
+INFO - 2025-06-18 17:28:47 --> Database Driver Class Initialized
+DEBUG - 2025-06-18 17:28:47 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2025-06-18 17:28:47 --> Session: Class initialized using 'files' driver.
+INFO - 2025-06-18 17:28:47 --> Controller Class Initialized
+INFO - 2025-06-18 22:28:47 --> File loaded: C:\xampp\htdocs\_damayraya\application\views\halaman_utama.php
+INFO - 2025-06-18 22:28:47 --> Final output sent to browser
+DEBUG - 2025-06-18 22:28:47 --> Total execution time: 0.0580
