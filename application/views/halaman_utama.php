@@ -43,8 +43,8 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Roboto&family=Wittgenstein:ital,wght@0,400..900;1,400..900&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="<?=base_url('assets/');?>style.css">
-    <link rel="stylesheet" href="<?=base_url('assets/');?>responsive.css">
+    <link rel="stylesheet" href="<?=base_url('assets/');?>style.css?v=2">
+    <link rel="stylesheet" href="<?=base_url('assets/');?>responsive.css?v=2">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
     <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.4/gsap.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.4/ScrollTrigger.min.js"></script>
