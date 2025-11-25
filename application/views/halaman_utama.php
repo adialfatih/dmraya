@@ -43,8 +43,8 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Roboto&family=Wittgenstein:ital,wght@0,400..900;1,400..900&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="<?=base_url('assets/');?>style.css?v=2">
-    <link rel="stylesheet" href="<?=base_url('assets/');?>responsive.css?v=2">
+    <link rel="stylesheet" href="<?=base_url('assets/');?>style.css?v=3">
+    <link rel="stylesheet" href="<?=base_url('assets/');?>responsive.css?v=3">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
     <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.4/gsap.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.4/ScrollTrigger.min.js"></script>
@@ -235,6 +235,18 @@
             <div class="katalog-produk" id="idKatalogProduk">
                 <div class="dtproduk">
                     <div class="wrapper23">
+                        <img src="<?=base_url('assets/');?>assetss/newImage2/Screenshot_1.jpg" alt="PILARBIT 27 / 102 SC" loading="lazy">
+                        <div class="desc">
+                            <h3 class="teksInsek">PILARBIT 27 / 102 SC</h3>
+                            <p>Bahan Aktif : Deltametrin 27 g/l + Tiametoksam 102 g/l</p>
+                            <p><strong class="teksInsek">Dapat melindungi tanaman dari hama untuk jangka waktu yang lama</strong> Kombinasi Deltamethrin dengan Thiamethoxam, Penggunaannya dapat mengendalikan hama secara efisien </p>
+                            <a href="javascript:void(0);" onclick="openModal('pilarbit')"><div class="btnin-action">Selengkapnya</div></a>
+                        </div>
+                        
+                    </div>
+                </div>
+                <div class="dtproduk">
+                    <div class="wrapper23">
                         <img src="<?=base_url('assets/');?>assetss/newImage2/1.png" alt="PILARWIN 112 / 168 ZC" loading="lazy">
                         <div class="desc">
                             <h3 class="teksFungi">PILARWIN 112 / 168 ZC</h3>
@@ -398,20 +410,80 @@
             </div>
             
         </section>
-        <section class="testimoni">
+<section class="testimoni">
+    <h2>Bergabunglah dengan Komunitas <br>Petani Sukses</h2>
+
+    <!-- Story-style testimonial slider -->
+    <div class="swiper storySwiper">
+        <div class="swiper-wrapper">
+
+            <!-- Contoh slide 1 -->
+            <div class="swiper-slide story-slide" onclick="openTesti('<?=base_url('assets/newtesti/chess-Ig3.webp');?>')">
+                <div class="story-thumb">
+                    <img src="<?=base_url('assets/newtesti/chess-Ig3.webp');?>" alt="Testimoni Petani 1" loading="lazy">
+                </div>
+            </div>
+
+            <!-- Contoh slide 2 -->
+            <div class="swiper-slide story-slide" onclick="openTesti('<?=base_url('assets/newtesti/chess-Ig2.webp');?>')">
+                <div class="story-thumb">
+                    <img src="<?=base_url('assets/newtesti/chess-Ig2.webp');?>" alt="Testimoni Petani 2" loading="lazy">
+                </div>
+            </div>
+
+            <!-- Contoh slide 3 -->
+            <div class="swiper-slide story-slide" onclick="openTesti('<?=base_url('assets/newtesti/testi-bomba.webp');?>')">
+                <div class="story-thumb">
+                    <img src="<?=base_url('assets/newtesti/testi-bomba.webp');?>" alt="Testimoni Petani 3" loading="lazy">
+                </div>
+            </div>
+
+            <!-- Contoh slide 4 -->
+            <div class="swiper-slide story-slide" onclick="openTesti('<?=base_url('assets/newtesti/testi-ig.webp');?>')">
+                <div class="story-thumb">
+                    <img src="<?=base_url('assets/newtesti/testi-ig.webp');?>" alt="Testimoni Petani 4" loading="lazy">
+                </div>
+            </div>
+            <!-- Contoh slide 5 -->
+            <div class="swiper-slide story-slide" onclick="openTesti('<?=base_url('assets/newtesti/testi-mectin-cabrio.webp');?>')">
+                <div class="story-thumb">
+                    <img src="<?=base_url('assets/newtesti/testi-mectin-cabrio.webp');?>" alt="Testimoni Petani 4" loading="lazy">
+                </div>
+            </div>
+            <!-- Contoh slide 6 -->
+            <div class="swiper-slide story-slide" onclick="openTesti('<?=base_url('assets/newtesti/testi-zox.webp');?>')">
+                <div class="story-thumb">
+                    <img src="<?=base_url('assets/newtesti/testi-zox.webp');?>" alt="Testimoni Petani 4" loading="lazy">
+                </div>
+            </div>
+
+            <!-- Tambah slide lain sesuai kebutuhan -->
+        </div>
+    </div>
+
+    <!-- CTA tetap -->
+    <a href="https://wa.me/62<?=$nomorWa;?>?text=Halo%20Damay%20Raya%0ASaya%20butuh%20bantuan" class="btnCall2" target="_blank">
+        <div>
+            <ion-icon name="logo-whatsapp"></ion-icon>
+            Hubungi Kami Sekarang
+        </div>
+    </a>
+</section>
+
+        <!-- <section class="testimoni">
             <h2>Bergabunglah dengan Komunitas <br>Petani Sukses</h2>
             <div class="swiper full mySwiper2">
                 <div class="swiper-wrapper">
                   <div class="swiper-slide full">
                     <div class="imgswiper">
-                        <img src="<?=base_url('assets/');?>assetss/4.png" alt="Bu Siti - Petani Sayuran, Bandung" loading="lazy">
+                        <img src="<=base_url('assets/');?>assetss/4.png" alt="Bu Siti - Petani Sayuran, Bandung" loading="lazy">
                     </div>
                     <span class="namatesti">Bu Siti - Petani Sayuran, Bandung</span>
                     <span class="txttesti">Sejak bekerja sama dengan <strong>DAMAY RAYA SOLUTIONS</strong>, produktivitas pertanian kami meningkat pesat. Dukungan dan layanan yang mereka berikan sangat luar biasa.</span>
                   </div>
                   <div class="swiper-slide full">
                     <div class="imgswiper">
-                        <img src="<?=base_url('assets/');?>assetss/5.png" alt="Budi, Petani Padi" loading="lazy">
+                        <img src="<=base_url('assets/');?>assetss/5.png" alt="Budi, Petani Padi" loading="lazy">
                     </div>
                     <span class="namatesti">Budi - Petani Padi, Banjarnegara</span>
                     <span class="txttesti"><strong>DAMAY RAYA SOLUTIONS</strong> memberikan solusi yang tepat dan efektif untuk pengelolaan pestisida di lahan kami. Sangat direkomendasikan!</span>
@@ -426,7 +498,7 @@
                     Hubungi Kami Sekarang
                 </div>
             </a>
-        </section>
+        </section> -->
         
     </main>
     <div id="myModal" class="modal">
@@ -436,6 +508,14 @@
             Please Wait...
         </div>
     </div>
+    <!-- Modal khusus untuk zoom testimoni -->
+    <div id="testiModal" class="modal">
+        <div class="modal-content testi-modal-content">
+            <div class="clsButton testi-close-btn" onclick="closeTestiModal()">x</div>
+            <img id="testiImage" src="" alt="Testimoni Detail" class="testi-modal-img">
+        </div>
+    </div>
+
     <footer>
         <div class="leftfooter">
             <div class="logofooter">
@@ -492,11 +572,33 @@
                 el: ".swiper-pagination",
             },
         });
-        var swiper = new Swiper(".mySwiper2", {
-            navigation: {
-                nextEl: ".swiper-button-next",
-                prevEl: ".swiper-button-prev",
-            },
+        var testiSwiper = new Swiper(".storySwiper", {
+            grabCursor: true,
+            centeredSlides: true,
+            loop: false,
+            spaceBetween: 24,
+            breakpoints: {
+                // Mobile kecil
+                0: {
+                    slidesPerView: 1.1,
+                    spaceBetween: 16
+                },
+                // Tablet
+                600: {
+                    slidesPerView: 1.6,
+                    spaceBetween: 18
+                },
+                // Laptop
+                900: {
+                    slidesPerView: 2.2,
+                    spaceBetween: 20
+                },
+                // Desktop besar
+                1280: {
+                    slidesPerView: 3,
+                    spaceBetween: 24
+                }
+            }
         });
         function cekbox(){
             var x = document.getElementById("cekobox");
@@ -575,9 +677,19 @@
         );
         var modal = document.getElementById("myModal");
         var isiModals = document.getElementById("isiModals");
+        var testiModal = document.getElementById("testiModal");
+        var testiImage = document.getElementById("testiImage");
         var btn = document.getElementById("openModalBtn");
         var span = document.getElementsByClassName("close")[0];
         var close = document.getElementsByClassName("clsButton")[0];
+        function openTesti(src) {
+            testiImage.src = src;
+            testiModal.style.display = "block";
+        }
+
+        function closeTestiModal() {
+            testiModal.style.display = "none";
+        }
         function openModal(produk) { 
             document.getElementById("isiModals").innerHTML = '<div class="clsButton" onclick="closeModal()">x</div><div class="loader"></div>Please Wait...';
             $.ajax({
@@ -618,6 +730,12 @@
                 }
             });
         }
+        window.addEventListener('click', function(event) {
+            if (event.target === testiModal) {
+                closeTestiModal();
+            }
+        });
+
         if ('serviceWorker' in navigator) {
                 navigator.serviceWorker.register("serviceworker.js");
         }

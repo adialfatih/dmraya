@@ -129,6 +129,10 @@
                     <img src="<?=base_url('assets/');?>assetss/newImage2/6.png" alt="PILARCABRIO 55 / 5 WG">
                     <span>PILARCABRIO 55 / 5 WG</span>
                 </div>
+                <div class="imgs" data-hystmodal="#myModal">
+                    <img src="<?=base_url('assets/');?>assetss/newImage2/Screenshot_1.jpg" alt="PILARBIT 27 / 102 SC">
+                    <span>PILARBIT 27 / 102 SC</span>
+                </div>
             </div>
         </section>
         

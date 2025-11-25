@@ -318,6 +318,33 @@ class Data extends CI_Controller
             </div>
             <?php
         }
+        elseif($produk == "pilarbit"){
+            ?>
+            <div class="clsButton" onclick="closeModal()">x</div>
+            <div style="width:100%;display:flex;flex-direction:column;gap:10px;">
+                <img src="<?=base_url('assets/assetss/newImage2/Screenshot_1.jpg');?>" alt="PILARBIT 27 / 102 SC" style="width:300px;">
+                <h2 style="color: red;">PILARBIT 27 / 102 SC</h2>
+                <p style="text-align: justify;"><strong style="color: red;">PILARBIT 27 / 102 SC</strong> adalah insektisida racun kontak dan lambung berbentuk pekatan suspensi dan digunakan untuk mengendalikan hama kutu daun (Myzus persicae) untuk tanaman cabai, serta untuk mengendalikan hama thrips serta untuk kutu-kutuan pada tanaman.</p>
+                <p style="text-align: justify;">Dengan perpaduan dua bahan aktif deltametrin dan tiametoksam yang keduanya memiliki spektrum insektisida yang sangat luas.</p>
+                <p style="text-align: justify;">Deltamethrin memiliki efek tertinggi toksisitas kontak pada piretoid dan memiliki efek spektrum insektisida yang luas yang secara efektif dapat mengendalikan lebih dari 140 jenis hama. Waktu paruh deltametrin adalah relatif lama sehingga mempunyai sisa pengendalian hama yang lama. Tiametoksam dapat bergerak cepat melalui daun untuk membentuk cadangan perlindungan jangka Panjang, Tiametoksam mempunyai aktivitas sistemik lokal, yang dapat menjalar dari bawah ke atas dalam xilem.</p>
+
+                <p style="font-size:14px;">
+                    Bahan Aktif : Deltametrin 27 g/l + Tiametoksam 102 g/l<br>
+                    Group : 3A / 4A INSEKTISIDA<br>
+                    Formulasi : SC ( Suspension Concentrate )<br>
+                </p>
+                <p style="font-weight: bold;">Manfaat penggunaan :</p>
+                <ol style="margin-left:20px;">
+                    <li>Untuk mengendalikan kutu daun dan ulat kubis pada sayuran</li>
+                    <li>Untuk mengendalikan penggerek daun dan kumbang penggerek pada tanaman kentang</li>
+                    <li>Untuk mengendalikan thrips, ulat tantara dan segala jenis kutu-kutuan pada tanaman (spektrum insektisida yang luas) dengan efikasi knock-down.</li>
+                    <li>Dapat melindungi tanaman dari hama untuk jangka waktu yang lama</li>
+                    <li>Aman bagi tanaman.</li>
+                </ol>
+                
+            </div>
+            <?php
+        }
         else {
             echo "Produk yang Anda Cari Tidak ditemukan...";
             echo '<div class="clsButton" onclick="closeModal()">x</div>';

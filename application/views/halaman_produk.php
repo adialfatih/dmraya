@@ -35,8 +35,8 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Roboto&family=Wittgenstein:ital,wght@0,400..900;1,400..900&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="<?=base_url('assets/');?>style.css?v=2">
-    <link rel="stylesheet" href="<?=base_url('assets/');?>responsive.css?v=2">
+    <link rel="stylesheet" href="<?=base_url('assets/');?>style.css?v=3">
+    <link rel="stylesheet" href="<?=base_url('assets/');?>responsive.css?v=3">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
     <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.4/gsap.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.4/ScrollTrigger.min.js"></script>
@@ -96,6 +96,48 @@
                     <img src="<?=base_url('assets/');?>assetss/newImage2/HERBI.png" alt="Katalog Herbisida" loading="lazy" onclick="showProduk('Herbisida')">
                     <img src="<?=base_url('assets/');?>assetss/newImage2/FUNGI.png" alt="Katalog Fungisida" loading="lazy" onclick="showProduk('Fungisida')">
                 </div>
+                <div class="company22">
+                    <div class="leftcompanynew">
+                        <div class="tesproduk">
+                            <img src="<?=base_url('assets/');?>assetss/newImage2/Screenshot_1.jpg" alt="PILARBIT 27 / 102 SC" loading="lazy">
+                        </div>
+                        <h2 style="color: red;">PILARBIT 27 / 102 SC</h2>
+                        <h2 style="color: red;">Group : 3A / 4A INSEKTISIDA</h2>
+                        <p>Bahan Aktif : Deltametrin 27 g/l + Tiametoksam 102 g/l</p>
+                    </div>
+                    <div class="rightcompany">
+                        <h2 class="hide360" style="color: red;">PILARBIT 27 / 102 SC</h2>
+                        <p><strong>PILARBIT 27 / 102 SC</strong> adalah insektisida racun kontak dan lambung berbentuk pekatan suspensi dan digunakan untuk mengendalikan hama kutu daun (Myzus persicae) untuk tanaman cabai, serta untuk mengendalikan hama thrips serta untuk kutu-kutuan pada tanaman.</p>
+                        <p><strong>PILARBIT 27 / 102 SC</strong> dengan perpaduan dua bahan aktif deltametrin dan tiametoksam yang keduanya memiliki spektrum insektisida yang sangat luas.</p>
+                        <p>Deltamethrin memiliki efek tertinggi toksisitas kontak pada piretoid dan memiliki efek spektrum insektisida yang luas yang secara efektif dapat mengendalikan lebih dari 140 jenis hama. Waktu paruh deltametrin adalah relatif lama sehingga mempunyai sisa pengendalian hama yang lama</p>
+                        <p>Formulasi : SC ( Suspension Concentrate )</p>
+                    </div>
+                </div>
+                <div class="company22 mt30">
+                    <div class="setdiv">
+                        <strong>MANFAAT PENGGUNAAN :</strong>
+                        <ol>
+                            <li>Untuk mengendalikan kutu daun dan ulat kubis pada sayuran</li>
+                            <li>Untuk mengendalikan penggerek daun dan kumbang penggerek pada tanaman kentang</li>
+                            <li>Untuk mengendalikan thrips, ulat tantara dan segala jenis kutu-kutuan pada tanaman (spektrum insektisida yang luas) dengan efikasi knock-down.</li>
+                            <li>Dapat melindungi tanaman dari hama untuk jangka waktu yang lama</li>
+                            <li>Aman bagi tanaman (tidak toxic)</li>
+                        </ol>
+                        <div class="imgManfaat">
+                            <img src="<?=base_url('assets/');?>newtesti/Screenshot_1.jpg" alt="HPP" loading="lazy">
+                            <img src="<?=base_url('assets/');?>newtesti/Screenshot_2.jpg" alt="HPP" loading="lazy">
+                            <img src="<?=base_url('assets/');?>newtesti/Screenshot_3.jpg" alt="HPP" loading="lazy">
+                            <img src="<?=base_url('assets/');?>newtesti/Screenshot_4.jpg" alt="HPP" loading="lazy">
+                        </div>
+                    </div>
+                    
+                </div>
+            </div>
+        </section>
+        <div class="pemisah">&nbsp;</div>
+        <section class="company">
+            <div class="newTipe">
+                
                 <div class="company22">
                     <div class="leftcompanynew">
                         <div class="tesproduk">

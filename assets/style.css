@@ -967,3 +967,96 @@ a {
 .nptext p strong {
     color: red;
 }
+/* =========================
+   TESTIMONI STORY STYLE (FIX)
+   ========================= */
+
+/* Container slider */
+.storySwiper {
+    width: 100%;
+    padding: 20px 0 40px 0;
+}
+
+/* Setiap slide Swiper */
+.story-slide {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Card gambar ala story */
+.story-thumb {
+    width: min(260px, 70vw);           /* Desktop max 260px, di mobile pakai % */
+    aspect-ratio: 4 / 5;               /* 1080 x 1350 = 4:5 */
+    border-radius: 18px;
+    overflow: hidden;
+    box-shadow: 0 8px 20px rgba(0,0,0,0.15);
+    cursor: pointer;
+    transition: transform 0.25s ease, box-shadow 0.25s ease;
+    background: #fff;
+}
+
+.story-thumb img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+}
+
+/* Hover di desktop */
+@media (hover:hover) {
+    .story-thumb:hover {
+        transform: translateY(-6px) scale(1.02);
+        box-shadow: 0 14px 30px rgba(0,0,0,0.25);
+    }
+}
+
+/* Modal testimoni */
+.testi-modal-content {
+    max-width: 900px;
+    width: 95%;
+    padding: 10px;
+    background: #000;
+}
+
+.testi-modal-img {
+    width: 100%;
+    height: 100%;
+    max-height: 80vh;
+    object-fit: contain;
+    border-radius: 6px;
+    background: #000;
+}
+
+.testi-close-btn {
+    background: #e00d0d;
+}
+
+/* Responsif */
+@media only screen and (min-width: 1280px) {
+    .story-thumb {
+        width: 280px;                   /* Desktop besar 3 kartu maksimal */
+    }
+}
+
+@media only screen and (max-width: 1024px) {
+    .storySwiper {
+        padding: 10px 0 30px 0;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    .story-thumb {
+        width: 60vw;                    /* Tablet: 1,5–2 kartu per layar */
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    .testimoni {
+        padding: 40px 10px 70px 10px;   /* Biar testimoni agak lega di HP */
+    }
+    .story-thumb {
+        width: 70vw;                    /* HP: 1 kartu hampir full */
+    }
+}
+
