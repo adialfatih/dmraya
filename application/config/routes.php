@@ -16,6 +16,9 @@ $route['tentang-kami'] = 'beranda/tentang';
 $route['404_override'] = 'Notfounde';
 $route['translate_uri_dashes'] = FALSE;
 
+$route['presentasi-produk'] = 'beranda/presentasi';
+
+
 /*
 | -------------------------------------------------------------------------
 | Sample REST API Routes

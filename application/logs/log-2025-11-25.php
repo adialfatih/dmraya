@@ -1546,3 +1546,533 @@ INFO - 2025-11-25 04:43:53 --> Controller Class Initialized
 INFO - 2025-11-25 04:43:53 --> File loaded: C:\xampp\htdocs\_damayraya\application\views\notfoundview.php
 INFO - 2025-11-25 04:43:53 --> Final output sent to browser
 DEBUG - 2025-11-25 04:43:53 --> Total execution time: 0.0479
+INFO - 2025-11-25 07:15:58 --> Config Class Initialized
+INFO - 2025-11-25 07:15:58 --> Hooks Class Initialized
+DEBUG - 2025-11-25 07:15:58 --> UTF-8 Support Enabled
+INFO - 2025-11-25 07:15:58 --> Utf8 Class Initialized
+INFO - 2025-11-25 07:15:58 --> URI Class Initialized
+DEBUG - 2025-11-25 07:15:58 --> No URI present. Default controller set.
+INFO - 2025-11-25 07:15:58 --> Router Class Initialized
+INFO - 2025-11-25 07:15:58 --> Output Class Initialized
+INFO - 2025-11-25 07:15:58 --> Security Class Initialized
+DEBUG - 2025-11-25 07:15:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-11-25 07:15:58 --> Input Class Initialized
+INFO - 2025-11-25 07:15:58 --> Language Class Initialized
+INFO - 2025-11-25 07:15:58 --> Loader Class Initialized
+INFO - 2025-11-25 07:15:58 --> Helper loaded: security_helper
+INFO - 2025-11-25 07:15:58 --> Helper loaded: url_helper
+INFO - 2025-11-25 07:15:58 --> Helper loaded: form_helper
+INFO - 2025-11-25 07:15:58 --> Database Driver Class Initialized
+DEBUG - 2025-11-25 07:15:58 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2025-11-25 07:15:58 --> Session: Class initialized using 'files' driver.
+INFO - 2025-11-25 07:15:58 --> Controller Class Initialized
+INFO - 2025-11-25 13:15:58 --> File loaded: C:\xampp\htdocs\_damayraya\application\views\halaman_utama.php
+INFO - 2025-11-25 13:15:58 --> Final output sent to browser
+DEBUG - 2025-11-25 13:15:58 --> Total execution time: 0.0478
+INFO - 2025-11-25 07:16:19 --> Config Class Initialized
+INFO - 2025-11-25 07:16:19 --> Hooks Class Initialized
+DEBUG - 2025-11-25 07:16:19 --> UTF-8 Support Enabled
+INFO - 2025-11-25 07:16:19 --> Utf8 Class Initialized
+INFO - 2025-11-25 07:16:19 --> URI Class Initialized
+DEBUG - 2025-11-25 07:16:19 --> No URI present. Default controller set.
+INFO - 2025-11-25 07:16:19 --> Router Class Initialized
+INFO - 2025-11-25 07:16:19 --> Output Class Initialized
+INFO - 2025-11-25 07:16:19 --> Security Class Initialized
+DEBUG - 2025-11-25 07:16:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-11-25 07:16:19 --> Input Class Initialized
+INFO - 2025-11-25 07:16:19 --> Language Class Initialized
+INFO - 2025-11-25 07:16:19 --> Loader Class Initialized
+INFO - 2025-11-25 07:16:19 --> Helper loaded: security_helper
+INFO - 2025-11-25 07:16:19 --> Helper loaded: url_helper
+INFO - 2025-11-25 07:16:19 --> Helper loaded: form_helper
+INFO - 2025-11-25 07:16:19 --> Database Driver Class Initialized
+DEBUG - 2025-11-25 07:16:19 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2025-11-25 07:16:19 --> Session: Class initialized using 'files' driver.
+INFO - 2025-11-25 07:16:19 --> Controller Class Initialized
+INFO - 2025-11-25 13:16:19 --> File loaded: C:\xampp\htdocs\_damayraya\application\views\halaman_utama.php
+INFO - 2025-11-25 13:16:19 --> Final output sent to browser
+DEBUG - 2025-11-25 13:16:19 --> Total execution time: 0.0523
+INFO - 2025-11-25 07:27:28 --> Config Class Initialized
+INFO - 2025-11-25 07:27:28 --> Hooks Class Initialized
+DEBUG - 2025-11-25 07:27:28 --> UTF-8 Support Enabled
+INFO - 2025-11-25 07:27:28 --> Utf8 Class Initialized
+INFO - 2025-11-25 07:27:28 --> URI Class Initialized
+INFO - 2025-11-25 07:27:28 --> Router Class Initialized
+INFO - 2025-11-25 07:27:28 --> Output Class Initialized
+INFO - 2025-11-25 07:27:28 --> Security Class Initialized
+DEBUG - 2025-11-25 07:27:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-11-25 07:27:28 --> Input Class Initialized
+INFO - 2025-11-25 07:27:28 --> Language Class Initialized
+INFO - 2025-11-25 07:27:28 --> Loader Class Initialized
+INFO - 2025-11-25 07:27:28 --> Helper loaded: security_helper
+INFO - 2025-11-25 07:27:28 --> Helper loaded: url_helper
+INFO - 2025-11-25 07:27:28 --> Helper loaded: form_helper
+INFO - 2025-11-25 07:27:28 --> Database Driver Class Initialized
+DEBUG - 2025-11-25 07:27:28 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2025-11-25 07:27:28 --> Session: Class initialized using 'files' driver.
+INFO - 2025-11-25 07:27:28 --> Controller Class Initialized
+INFO - 2025-11-25 13:27:28 --> File loaded: C:\xampp\htdocs\_damayraya\application\views\halaman_presentasi.php
+INFO - 2025-11-25 13:27:28 --> Final output sent to browser
+DEBUG - 2025-11-25 13:27:28 --> Total execution time: 0.0471
+INFO - 2025-11-25 07:27:51 --> Config Class Initialized
+INFO - 2025-11-25 07:27:51 --> Hooks Class Initialized
+DEBUG - 2025-11-25 07:27:51 --> UTF-8 Support Enabled
+INFO - 2025-11-25 07:27:51 --> Utf8 Class Initialized
+INFO - 2025-11-25 07:27:51 --> URI Class Initialized
+INFO - 2025-11-25 07:27:51 --> Router Class Initialized
+INFO - 2025-11-25 07:27:51 --> Output Class Initialized
+INFO - 2025-11-25 07:27:51 --> Security Class Initialized
+DEBUG - 2025-11-25 07:27:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-11-25 07:27:51 --> Input Class Initialized
+INFO - 2025-11-25 07:27:51 --> Language Class Initialized
+INFO - 2025-11-25 07:27:51 --> Loader Class Initialized
+INFO - 2025-11-25 07:27:51 --> Helper loaded: security_helper
+INFO - 2025-11-25 07:27:51 --> Helper loaded: url_helper
+INFO - 2025-11-25 07:27:51 --> Helper loaded: form_helper
+INFO - 2025-11-25 07:27:51 --> Database Driver Class Initialized
+DEBUG - 2025-11-25 07:27:51 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2025-11-25 07:27:51 --> Session: Class initialized using 'files' driver.
+INFO - 2025-11-25 07:27:51 --> Controller Class Initialized
+INFO - 2025-11-25 13:27:51 --> File loaded: C:\xampp\htdocs\_damayraya\application\views\halaman_produk.php
+INFO - 2025-11-25 13:27:51 --> Final output sent to browser
+DEBUG - 2025-11-25 13:27:51 --> Total execution time: 0.0565
+INFO - 2025-11-25 07:27:52 --> Config Class Initialized
+INFO - 2025-11-25 07:27:52 --> Hooks Class Initialized
+DEBUG - 2025-11-25 07:27:52 --> UTF-8 Support Enabled
+INFO - 2025-11-25 07:27:52 --> Utf8 Class Initialized
+INFO - 2025-11-25 07:27:52 --> URI Class Initialized
+INFO - 2025-11-25 07:27:52 --> Router Class Initialized
+INFO - 2025-11-25 07:27:52 --> Output Class Initialized
+INFO - 2025-11-25 07:27:52 --> Security Class Initialized
+DEBUG - 2025-11-25 07:27:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-11-25 07:27:52 --> Input Class Initialized
+INFO - 2025-11-25 07:27:52 --> Language Class Initialized
+INFO - 2025-11-25 07:27:52 --> Loader Class Initialized
+INFO - 2025-11-25 07:27:52 --> Helper loaded: security_helper
+INFO - 2025-11-25 07:27:52 --> Helper loaded: url_helper
+INFO - 2025-11-25 07:27:52 --> Helper loaded: form_helper
+INFO - 2025-11-25 07:27:52 --> Database Driver Class Initialized
+DEBUG - 2025-11-25 07:27:52 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2025-11-25 07:27:52 --> Session: Class initialized using 'files' driver.
+INFO - 2025-11-25 07:27:52 --> Controller Class Initialized
+INFO - 2025-11-25 13:27:52 --> File loaded: C:\xampp\htdocs\_damayraya\application\views\halaman_utama.php
+INFO - 2025-11-25 13:27:52 --> Final output sent to browser
+DEBUG - 2025-11-25 13:27:52 --> Total execution time: 0.0346
+INFO - 2025-11-25 07:27:53 --> Config Class Initialized
+INFO - 2025-11-25 07:27:53 --> Hooks Class Initialized
+DEBUG - 2025-11-25 07:27:53 --> UTF-8 Support Enabled
+INFO - 2025-11-25 07:27:53 --> Utf8 Class Initialized
+INFO - 2025-11-25 07:27:53 --> URI Class Initialized
+INFO - 2025-11-25 07:27:53 --> Router Class Initialized
+INFO - 2025-11-25 07:27:53 --> Output Class Initialized
+INFO - 2025-11-25 07:27:53 --> Security Class Initialized
+DEBUG - 2025-11-25 07:27:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-11-25 07:27:53 --> Input Class Initialized
+INFO - 2025-11-25 07:27:53 --> Language Class Initialized
+INFO - 2025-11-25 07:27:53 --> Loader Class Initialized
+INFO - 2025-11-25 07:27:53 --> Helper loaded: security_helper
+INFO - 2025-11-25 07:27:53 --> Helper loaded: url_helper
+INFO - 2025-11-25 07:27:53 --> Helper loaded: form_helper
+INFO - 2025-11-25 07:27:53 --> Database Driver Class Initialized
+DEBUG - 2025-11-25 07:27:53 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2025-11-25 07:27:53 --> Session: Class initialized using 'files' driver.
+INFO - 2025-11-25 07:27:53 --> Controller Class Initialized
+INFO - 2025-11-25 13:27:53 --> File loaded: C:\xampp\htdocs\_damayraya\application\views\halaman_produk.php
+INFO - 2025-11-25 13:27:53 --> Final output sent to browser
+DEBUG - 2025-11-25 13:27:53 --> Total execution time: 0.0479
+INFO - 2025-11-25 07:28:02 --> Config Class Initialized
+INFO - 2025-11-25 07:28:02 --> Hooks Class Initialized
+DEBUG - 2025-11-25 07:28:02 --> UTF-8 Support Enabled
+INFO - 2025-11-25 07:28:02 --> Utf8 Class Initialized
+INFO - 2025-11-25 07:28:02 --> URI Class Initialized
+INFO - 2025-11-25 07:28:02 --> Router Class Initialized
+INFO - 2025-11-25 07:28:02 --> Output Class Initialized
+INFO - 2025-11-25 07:28:02 --> Security Class Initialized
+DEBUG - 2025-11-25 07:28:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-11-25 07:28:02 --> Input Class Initialized
+INFO - 2025-11-25 07:28:02 --> Language Class Initialized
+INFO - 2025-11-25 07:28:02 --> Loader Class Initialized
+INFO - 2025-11-25 07:28:02 --> Helper loaded: security_helper
+INFO - 2025-11-25 07:28:02 --> Helper loaded: url_helper
+INFO - 2025-11-25 07:28:02 --> Helper loaded: form_helper
+INFO - 2025-11-25 07:28:02 --> Database Driver Class Initialized
+DEBUG - 2025-11-25 07:28:03 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2025-11-25 07:28:03 --> Session: Class initialized using 'files' driver.
+INFO - 2025-11-25 07:28:03 --> Controller Class Initialized
+INFO - 2025-11-25 13:28:03 --> File loaded: C:\xampp\htdocs\_damayraya\application\views\halaman_presentasi.php
+INFO - 2025-11-25 13:28:03 --> Final output sent to browser
+DEBUG - 2025-11-25 13:28:03 --> Total execution time: 0.0712
+INFO - 2025-11-25 07:30:42 --> Config Class Initialized
+INFO - 2025-11-25 07:30:42 --> Hooks Class Initialized
+DEBUG - 2025-11-25 07:30:42 --> UTF-8 Support Enabled
+INFO - 2025-11-25 07:30:42 --> Utf8 Class Initialized
+INFO - 2025-11-25 07:30:42 --> URI Class Initialized
+INFO - 2025-11-25 07:30:42 --> Router Class Initialized
+INFO - 2025-11-25 07:30:42 --> Output Class Initialized
+INFO - 2025-11-25 07:30:42 --> Security Class Initialized
+DEBUG - 2025-11-25 07:30:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-11-25 07:30:42 --> Input Class Initialized
+INFO - 2025-11-25 07:30:42 --> Language Class Initialized
+INFO - 2025-11-25 07:30:42 --> Loader Class Initialized
+INFO - 2025-11-25 07:30:42 --> Helper loaded: security_helper
+INFO - 2025-11-25 07:30:42 --> Helper loaded: url_helper
+INFO - 2025-11-25 07:30:42 --> Helper loaded: form_helper
+INFO - 2025-11-25 07:30:42 --> Database Driver Class Initialized
+DEBUG - 2025-11-25 07:30:42 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2025-11-25 07:30:42 --> Session: Class initialized using 'files' driver.
+INFO - 2025-11-25 07:30:42 --> Controller Class Initialized
+INFO - 2025-11-25 13:30:42 --> File loaded: C:\xampp\htdocs\_damayraya\application\views\halaman_presentasi.php
+INFO - 2025-11-25 13:30:42 --> Final output sent to browser
+DEBUG - 2025-11-25 13:30:42 --> Total execution time: 0.0488
+INFO - 2025-11-25 07:33:03 --> Config Class Initialized
+INFO - 2025-11-25 07:33:03 --> Hooks Class Initialized
+DEBUG - 2025-11-25 07:33:03 --> UTF-8 Support Enabled
+INFO - 2025-11-25 07:33:03 --> Utf8 Class Initialized
+INFO - 2025-11-25 07:33:03 --> URI Class Initialized
+INFO - 2025-11-25 07:33:03 --> Router Class Initialized
+INFO - 2025-11-25 07:33:03 --> Output Class Initialized
+INFO - 2025-11-25 07:33:03 --> Security Class Initialized
+DEBUG - 2025-11-25 07:33:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-11-25 07:33:03 --> Input Class Initialized
+INFO - 2025-11-25 07:33:03 --> Language Class Initialized
+INFO - 2025-11-25 07:33:03 --> Loader Class Initialized
+INFO - 2025-11-25 07:33:03 --> Helper loaded: security_helper
+INFO - 2025-11-25 07:33:03 --> Helper loaded: url_helper
+INFO - 2025-11-25 07:33:03 --> Helper loaded: form_helper
+INFO - 2025-11-25 07:33:03 --> Database Driver Class Initialized
+DEBUG - 2025-11-25 07:33:03 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2025-11-25 07:33:03 --> Session: Class initialized using 'files' driver.
+INFO - 2025-11-25 07:33:03 --> Controller Class Initialized
+INFO - 2025-11-25 13:33:03 --> File loaded: C:\xampp\htdocs\_damayraya\application\views\halaman_presentasi.php
+INFO - 2025-11-25 13:33:03 --> Final output sent to browser
+DEBUG - 2025-11-25 13:33:03 --> Total execution time: 0.0583
+INFO - 2025-11-25 07:33:06 --> Config Class Initialized
+INFO - 2025-11-25 07:33:06 --> Hooks Class Initialized
+DEBUG - 2025-11-25 07:33:06 --> UTF-8 Support Enabled
+INFO - 2025-11-25 07:33:06 --> Utf8 Class Initialized
+INFO - 2025-11-25 07:33:06 --> URI Class Initialized
+INFO - 2025-11-25 07:33:06 --> Router Class Initialized
+INFO - 2025-11-25 07:33:06 --> Output Class Initialized
+INFO - 2025-11-25 07:33:06 --> Security Class Initialized
+DEBUG - 2025-11-25 07:33:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-11-25 07:33:06 --> Input Class Initialized
+INFO - 2025-11-25 07:33:06 --> Language Class Initialized
+INFO - 2025-11-25 07:33:06 --> Loader Class Initialized
+INFO - 2025-11-25 07:33:06 --> Helper loaded: security_helper
+INFO - 2025-11-25 07:33:06 --> Helper loaded: url_helper
+INFO - 2025-11-25 07:33:06 --> Helper loaded: form_helper
+INFO - 2025-11-25 07:33:06 --> Database Driver Class Initialized
+DEBUG - 2025-11-25 07:33:06 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2025-11-25 07:33:06 --> Session: Class initialized using 'files' driver.
+INFO - 2025-11-25 07:33:06 --> Controller Class Initialized
+INFO - 2025-11-25 13:33:06 --> File loaded: C:\xampp\htdocs\_damayraya\application\views\halaman_presentasi.php
+INFO - 2025-11-25 13:33:06 --> Final output sent to browser
+DEBUG - 2025-11-25 13:33:06 --> Total execution time: 0.0564
+INFO - 2025-11-25 07:33:13 --> Config Class Initialized
+INFO - 2025-11-25 07:33:13 --> Hooks Class Initialized
+DEBUG - 2025-11-25 07:33:13 --> UTF-8 Support Enabled
+INFO - 2025-11-25 07:33:13 --> Utf8 Class Initialized
+INFO - 2025-11-25 07:33:13 --> URI Class Initialized
+INFO - 2025-11-25 07:33:13 --> Router Class Initialized
+INFO - 2025-11-25 07:33:13 --> Output Class Initialized
+INFO - 2025-11-25 07:33:13 --> Security Class Initialized
+DEBUG - 2025-11-25 07:33:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-11-25 07:33:13 --> Input Class Initialized
+INFO - 2025-11-25 07:33:13 --> Language Class Initialized
+INFO - 2025-11-25 07:33:13 --> Loader Class Initialized
+INFO - 2025-11-25 07:33:13 --> Helper loaded: security_helper
+INFO - 2025-11-25 07:33:13 --> Helper loaded: url_helper
+INFO - 2025-11-25 07:33:13 --> Helper loaded: form_helper
+INFO - 2025-11-25 07:33:13 --> Database Driver Class Initialized
+DEBUG - 2025-11-25 07:33:13 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2025-11-25 07:33:13 --> Session: Class initialized using 'files' driver.
+INFO - 2025-11-25 07:33:13 --> Controller Class Initialized
+INFO - 2025-11-25 13:33:13 --> File loaded: C:\xampp\htdocs\_damayraya\application\views\halaman_presentasi.php
+INFO - 2025-11-25 13:33:13 --> Final output sent to browser
+DEBUG - 2025-11-25 13:33:13 --> Total execution time: 0.0366
+INFO - 2025-11-25 07:36:10 --> Config Class Initialized
+INFO - 2025-11-25 07:36:10 --> Hooks Class Initialized
+DEBUG - 2025-11-25 07:36:10 --> UTF-8 Support Enabled
+INFO - 2025-11-25 07:36:10 --> Utf8 Class Initialized
+INFO - 2025-11-25 07:36:10 --> URI Class Initialized
+INFO - 2025-11-25 07:36:10 --> Router Class Initialized
+INFO - 2025-11-25 07:36:10 --> Output Class Initialized
+INFO - 2025-11-25 07:36:10 --> Security Class Initialized
+DEBUG - 2025-11-25 07:36:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-11-25 07:36:10 --> Input Class Initialized
+INFO - 2025-11-25 07:36:10 --> Language Class Initialized
+INFO - 2025-11-25 07:36:10 --> Loader Class Initialized
+INFO - 2025-11-25 07:36:10 --> Helper loaded: security_helper
+INFO - 2025-11-25 07:36:10 --> Helper loaded: url_helper
+INFO - 2025-11-25 07:36:10 --> Helper loaded: form_helper
+INFO - 2025-11-25 07:36:10 --> Database Driver Class Initialized
+DEBUG - 2025-11-25 07:36:10 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2025-11-25 07:36:10 --> Session: Class initialized using 'files' driver.
+INFO - 2025-11-25 07:36:10 --> Controller Class Initialized
+INFO - 2025-11-25 13:36:10 --> File loaded: C:\xampp\htdocs\_damayraya\application\views\halaman_presentasi.php
+INFO - 2025-11-25 13:36:10 --> Final output sent to browser
+DEBUG - 2025-11-25 13:36:10 --> Total execution time: 0.0340
+INFO - 2025-11-25 07:36:31 --> Config Class Initialized
+INFO - 2025-11-25 07:36:31 --> Hooks Class Initialized
+DEBUG - 2025-11-25 07:36:31 --> UTF-8 Support Enabled
+INFO - 2025-11-25 07:36:31 --> Utf8 Class Initialized
+INFO - 2025-11-25 07:36:31 --> URI Class Initialized
+INFO - 2025-11-25 07:36:31 --> Router Class Initialized
+INFO - 2025-11-25 07:36:31 --> Output Class Initialized
+INFO - 2025-11-25 07:36:31 --> Security Class Initialized
+DEBUG - 2025-11-25 07:36:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-11-25 07:36:31 --> Input Class Initialized
+INFO - 2025-11-25 07:36:31 --> Language Class Initialized
+INFO - 2025-11-25 07:36:31 --> Loader Class Initialized
+INFO - 2025-11-25 07:36:31 --> Helper loaded: security_helper
+INFO - 2025-11-25 07:36:31 --> Helper loaded: url_helper
+INFO - 2025-11-25 07:36:31 --> Helper loaded: form_helper
+INFO - 2025-11-25 07:36:31 --> Database Driver Class Initialized
+DEBUG - 2025-11-25 07:36:31 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2025-11-25 07:36:31 --> Session: Class initialized using 'files' driver.
+INFO - 2025-11-25 07:36:31 --> Controller Class Initialized
+INFO - 2025-11-25 13:36:31 --> File loaded: C:\xampp\htdocs\_damayraya\application\views\halaman_presentasi.php
+INFO - 2025-11-25 13:36:31 --> Final output sent to browser
+DEBUG - 2025-11-25 13:36:31 --> Total execution time: 0.0456
+INFO - 2025-11-25 07:40:00 --> Config Class Initialized
+INFO - 2025-11-25 07:40:00 --> Hooks Class Initialized
+DEBUG - 2025-11-25 07:40:00 --> UTF-8 Support Enabled
+INFO - 2025-11-25 07:40:00 --> Utf8 Class Initialized
+INFO - 2025-11-25 07:40:00 --> URI Class Initialized
+INFO - 2025-11-25 07:40:00 --> Router Class Initialized
+INFO - 2025-11-25 07:40:00 --> Output Class Initialized
+INFO - 2025-11-25 07:40:00 --> Security Class Initialized
+DEBUG - 2025-11-25 07:40:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-11-25 07:40:00 --> Input Class Initialized
+INFO - 2025-11-25 07:40:00 --> Language Class Initialized
+INFO - 2025-11-25 07:40:00 --> Loader Class Initialized
+INFO - 2025-11-25 07:40:00 --> Helper loaded: security_helper
+INFO - 2025-11-25 07:40:00 --> Helper loaded: url_helper
+INFO - 2025-11-25 07:40:00 --> Helper loaded: form_helper
+INFO - 2025-11-25 07:40:00 --> Database Driver Class Initialized
+DEBUG - 2025-11-25 07:40:00 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2025-11-25 07:40:00 --> Session: Class initialized using 'files' driver.
+INFO - 2025-11-25 07:40:00 --> Controller Class Initialized
+INFO - 2025-11-25 13:40:00 --> File loaded: C:\xampp\htdocs\_damayraya\application\views\halaman_presentasi.php
+INFO - 2025-11-25 13:40:00 --> Final output sent to browser
+DEBUG - 2025-11-25 13:40:00 --> Total execution time: 0.0600
+INFO - 2025-11-25 07:40:00 --> Config Class Initialized
+INFO - 2025-11-25 07:40:00 --> Hooks Class Initialized
+DEBUG - 2025-11-25 07:40:00 --> UTF-8 Support Enabled
+INFO - 2025-11-25 07:40:00 --> Utf8 Class Initialized
+INFO - 2025-11-25 07:40:00 --> URI Class Initialized
+INFO - 2025-11-25 07:40:00 --> Router Class Initialized
+INFO - 2025-11-25 07:40:00 --> Output Class Initialized
+INFO - 2025-11-25 07:40:00 --> Security Class Initialized
+DEBUG - 2025-11-25 07:40:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-11-25 07:40:00 --> Input Class Initialized
+INFO - 2025-11-25 07:40:00 --> Language Class Initialized
+INFO - 2025-11-25 07:40:00 --> Loader Class Initialized
+INFO - 2025-11-25 07:40:00 --> Helper loaded: security_helper
+INFO - 2025-11-25 07:40:00 --> Helper loaded: url_helper
+INFO - 2025-11-25 07:40:00 --> Helper loaded: form_helper
+INFO - 2025-11-25 07:40:00 --> Database Driver Class Initialized
+DEBUG - 2025-11-25 07:40:00 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2025-11-25 07:40:00 --> Session: Class initialized using 'files' driver.
+INFO - 2025-11-25 07:40:00 --> Controller Class Initialized
+INFO - 2025-11-25 07:40:00 --> File loaded: C:\xampp\htdocs\_damayraya\application\views\notfoundview.php
+INFO - 2025-11-25 07:40:00 --> Final output sent to browser
+DEBUG - 2025-11-25 07:40:00 --> Total execution time: 0.0509
+INFO - 2025-11-25 07:40:28 --> Config Class Initialized
+INFO - 2025-11-25 07:40:28 --> Hooks Class Initialized
+DEBUG - 2025-11-25 07:40:28 --> UTF-8 Support Enabled
+INFO - 2025-11-25 07:40:28 --> Utf8 Class Initialized
+INFO - 2025-11-25 07:40:28 --> URI Class Initialized
+INFO - 2025-11-25 07:40:28 --> Router Class Initialized
+INFO - 2025-11-25 07:40:28 --> Output Class Initialized
+INFO - 2025-11-25 07:40:28 --> Security Class Initialized
+DEBUG - 2025-11-25 07:40:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-11-25 07:40:28 --> Input Class Initialized
+INFO - 2025-11-25 07:40:28 --> Language Class Initialized
+INFO - 2025-11-25 07:40:28 --> Loader Class Initialized
+INFO - 2025-11-25 07:40:28 --> Helper loaded: security_helper
+INFO - 2025-11-25 07:40:28 --> Helper loaded: url_helper
+INFO - 2025-11-25 07:40:28 --> Helper loaded: form_helper
+INFO - 2025-11-25 07:40:28 --> Database Driver Class Initialized
+DEBUG - 2025-11-25 07:40:28 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2025-11-25 07:40:28 --> Session: Class initialized using 'files' driver.
+INFO - 2025-11-25 07:40:28 --> Controller Class Initialized
+INFO - 2025-11-25 13:40:28 --> File loaded: C:\xampp\htdocs\_damayraya\application\views\halaman_presentasi.php
+INFO - 2025-11-25 13:40:28 --> Final output sent to browser
+DEBUG - 2025-11-25 13:40:28 --> Total execution time: 0.0642
+INFO - 2025-11-25 07:58:03 --> Config Class Initialized
+INFO - 2025-11-25 07:58:03 --> Hooks Class Initialized
+DEBUG - 2025-11-25 07:58:03 --> UTF-8 Support Enabled
+INFO - 2025-11-25 07:58:03 --> Utf8 Class Initialized
+INFO - 2025-11-25 07:58:03 --> URI Class Initialized
+INFO - 2025-11-25 07:58:03 --> Router Class Initialized
+INFO - 2025-11-25 07:58:03 --> Output Class Initialized
+INFO - 2025-11-25 07:58:03 --> Security Class Initialized
+DEBUG - 2025-11-25 07:58:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-11-25 07:58:03 --> Input Class Initialized
+INFO - 2025-11-25 07:58:03 --> Language Class Initialized
+INFO - 2025-11-25 07:58:03 --> Loader Class Initialized
+INFO - 2025-11-25 07:58:03 --> Helper loaded: security_helper
+INFO - 2025-11-25 07:58:03 --> Helper loaded: url_helper
+INFO - 2025-11-25 07:58:03 --> Helper loaded: form_helper
+INFO - 2025-11-25 07:58:03 --> Database Driver Class Initialized
+DEBUG - 2025-11-25 07:58:03 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2025-11-25 07:58:03 --> Session: Class initialized using 'files' driver.
+INFO - 2025-11-25 07:58:03 --> Controller Class Initialized
+INFO - 2025-11-25 13:58:03 --> File loaded: C:\xampp\htdocs\_damayraya\application\views\halaman_presentasi.php
+INFO - 2025-11-25 13:58:03 --> Final output sent to browser
+DEBUG - 2025-11-25 13:58:03 --> Total execution time: 0.0382
+INFO - 2025-11-25 07:58:10 --> Config Class Initialized
+INFO - 2025-11-25 07:58:10 --> Hooks Class Initialized
+DEBUG - 2025-11-25 07:58:10 --> UTF-8 Support Enabled
+INFO - 2025-11-25 07:58:10 --> Utf8 Class Initialized
+INFO - 2025-11-25 07:58:10 --> URI Class Initialized
+INFO - 2025-11-25 07:58:10 --> Router Class Initialized
+INFO - 2025-11-25 07:58:10 --> Output Class Initialized
+INFO - 2025-11-25 07:58:10 --> Security Class Initialized
+DEBUG - 2025-11-25 07:58:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-11-25 07:58:10 --> Input Class Initialized
+INFO - 2025-11-25 07:58:10 --> Language Class Initialized
+INFO - 2025-11-25 07:58:10 --> Loader Class Initialized
+INFO - 2025-11-25 07:58:10 --> Helper loaded: security_helper
+INFO - 2025-11-25 07:58:10 --> Helper loaded: url_helper
+INFO - 2025-11-25 07:58:10 --> Helper loaded: form_helper
+INFO - 2025-11-25 07:58:10 --> Database Driver Class Initialized
+DEBUG - 2025-11-25 07:58:10 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2025-11-25 07:58:10 --> Session: Class initialized using 'files' driver.
+INFO - 2025-11-25 07:58:10 --> Controller Class Initialized
+INFO - 2025-11-25 13:58:10 --> File loaded: C:\xampp\htdocs\_damayraya\application\views\halaman_presentasi.php
+INFO - 2025-11-25 13:58:10 --> Final output sent to browser
+DEBUG - 2025-11-25 13:58:10 --> Total execution time: 0.0392
+INFO - 2025-11-25 07:58:15 --> Config Class Initialized
+INFO - 2025-11-25 07:58:15 --> Hooks Class Initialized
+DEBUG - 2025-11-25 07:58:15 --> UTF-8 Support Enabled
+INFO - 2025-11-25 07:58:15 --> Utf8 Class Initialized
+INFO - 2025-11-25 07:58:15 --> URI Class Initialized
+INFO - 2025-11-25 07:58:15 --> Router Class Initialized
+INFO - 2025-11-25 07:58:15 --> Output Class Initialized
+INFO - 2025-11-25 07:58:15 --> Security Class Initialized
+DEBUG - 2025-11-25 07:58:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-11-25 07:58:15 --> Input Class Initialized
+INFO - 2025-11-25 07:58:15 --> Language Class Initialized
+INFO - 2025-11-25 07:58:15 --> Loader Class Initialized
+INFO - 2025-11-25 07:58:15 --> Helper loaded: security_helper
+INFO - 2025-11-25 07:58:15 --> Helper loaded: url_helper
+INFO - 2025-11-25 07:58:15 --> Helper loaded: form_helper
+INFO - 2025-11-25 07:58:15 --> Database Driver Class Initialized
+DEBUG - 2025-11-25 07:58:15 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2025-11-25 07:58:15 --> Session: Class initialized using 'files' driver.
+INFO - 2025-11-25 07:58:15 --> Controller Class Initialized
+INFO - 2025-11-25 13:58:15 --> File loaded: C:\xampp\htdocs\_damayraya\application\views\halaman_presentasi.php
+INFO - 2025-11-25 13:58:15 --> Final output sent to browser
+DEBUG - 2025-11-25 13:58:15 --> Total execution time: 0.0566
+INFO - 2025-11-25 07:58:19 --> Config Class Initialized
+INFO - 2025-11-25 07:58:19 --> Hooks Class Initialized
+DEBUG - 2025-11-25 07:58:19 --> UTF-8 Support Enabled
+INFO - 2025-11-25 07:58:19 --> Utf8 Class Initialized
+INFO - 2025-11-25 07:58:19 --> URI Class Initialized
+INFO - 2025-11-25 07:58:19 --> Router Class Initialized
+INFO - 2025-11-25 07:58:19 --> Output Class Initialized
+INFO - 2025-11-25 07:58:19 --> Security Class Initialized
+DEBUG - 2025-11-25 07:58:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-11-25 07:58:19 --> Input Class Initialized
+INFO - 2025-11-25 07:58:19 --> Language Class Initialized
+INFO - 2025-11-25 07:58:19 --> Loader Class Initialized
+INFO - 2025-11-25 07:58:19 --> Helper loaded: security_helper
+INFO - 2025-11-25 07:58:19 --> Helper loaded: url_helper
+INFO - 2025-11-25 07:58:19 --> Helper loaded: form_helper
+INFO - 2025-11-25 07:58:19 --> Database Driver Class Initialized
+DEBUG - 2025-11-25 07:58:19 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2025-11-25 07:58:19 --> Session: Class initialized using 'files' driver.
+INFO - 2025-11-25 07:58:19 --> Controller Class Initialized
+INFO - 2025-11-25 13:58:19 --> File loaded: C:\xampp\htdocs\_damayraya\application\views\halaman_presentasi.php
+INFO - 2025-11-25 13:58:19 --> Final output sent to browser
+DEBUG - 2025-11-25 13:58:19 --> Total execution time: 0.0613
+INFO - 2025-11-25 07:58:30 --> Config Class Initialized
+INFO - 2025-11-25 07:58:30 --> Hooks Class Initialized
+DEBUG - 2025-11-25 07:58:30 --> UTF-8 Support Enabled
+INFO - 2025-11-25 07:58:30 --> Utf8 Class Initialized
+INFO - 2025-11-25 07:58:30 --> URI Class Initialized
+INFO - 2025-11-25 07:58:30 --> Router Class Initialized
+INFO - 2025-11-25 07:58:30 --> Output Class Initialized
+INFO - 2025-11-25 07:58:30 --> Security Class Initialized
+DEBUG - 2025-11-25 07:58:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-11-25 07:58:30 --> Input Class Initialized
+INFO - 2025-11-25 07:58:30 --> Language Class Initialized
+INFO - 2025-11-25 07:58:30 --> Loader Class Initialized
+INFO - 2025-11-25 07:58:30 --> Helper loaded: security_helper
+INFO - 2025-11-25 07:58:30 --> Helper loaded: url_helper
+INFO - 2025-11-25 07:58:30 --> Helper loaded: form_helper
+INFO - 2025-11-25 07:58:30 --> Database Driver Class Initialized
+DEBUG - 2025-11-25 07:58:30 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2025-11-25 07:58:30 --> Session: Class initialized using 'files' driver.
+INFO - 2025-11-25 07:58:30 --> Controller Class Initialized
+INFO - 2025-11-25 13:58:30 --> File loaded: C:\xampp\htdocs\_damayraya\application\views\halaman_presentasi.php
+INFO - 2025-11-25 13:58:30 --> Final output sent to browser
+DEBUG - 2025-11-25 13:58:30 --> Total execution time: 0.0555
+INFO - 2025-11-25 07:58:35 --> Config Class Initialized
+INFO - 2025-11-25 07:58:35 --> Hooks Class Initialized
+DEBUG - 2025-11-25 07:58:35 --> UTF-8 Support Enabled
+INFO - 2025-11-25 07:58:35 --> Utf8 Class Initialized
+INFO - 2025-11-25 07:58:35 --> URI Class Initialized
+INFO - 2025-11-25 07:58:35 --> Router Class Initialized
+INFO - 2025-11-25 07:58:35 --> Output Class Initialized
+INFO - 2025-11-25 07:58:35 --> Security Class Initialized
+DEBUG - 2025-11-25 07:58:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-11-25 07:58:35 --> Input Class Initialized
+INFO - 2025-11-25 07:58:35 --> Language Class Initialized
+INFO - 2025-11-25 07:58:35 --> Loader Class Initialized
+INFO - 2025-11-25 07:58:35 --> Helper loaded: security_helper
+INFO - 2025-11-25 07:58:35 --> Helper loaded: url_helper
+INFO - 2025-11-25 07:58:35 --> Helper loaded: form_helper
+INFO - 2025-11-25 07:58:35 --> Database Driver Class Initialized
+DEBUG - 2025-11-25 07:58:35 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2025-11-25 07:58:35 --> Session: Class initialized using 'files' driver.
+INFO - 2025-11-25 07:58:35 --> Controller Class Initialized
+INFO - 2025-11-25 13:58:35 --> File loaded: C:\xampp\htdocs\_damayraya\application\views\halaman_presentasi.php
+INFO - 2025-11-25 13:58:35 --> Final output sent to browser
+DEBUG - 2025-11-25 13:58:35 --> Total execution time: 0.0528
+INFO - 2025-11-25 07:58:40 --> Config Class Initialized
+INFO - 2025-11-25 07:58:40 --> Hooks Class Initialized
+DEBUG - 2025-11-25 07:58:40 --> UTF-8 Support Enabled
+INFO - 2025-11-25 07:58:40 --> Utf8 Class Initialized
+INFO - 2025-11-25 07:58:40 --> URI Class Initialized
+INFO - 2025-11-25 07:58:40 --> Router Class Initialized
+INFO - 2025-11-25 07:58:40 --> Output Class Initialized
+INFO - 2025-11-25 07:58:40 --> Security Class Initialized
+DEBUG - 2025-11-25 07:58:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-11-25 07:58:40 --> Input Class Initialized
+INFO - 2025-11-25 07:58:40 --> Language Class Initialized
+INFO - 2025-11-25 07:58:40 --> Loader Class Initialized
+INFO - 2025-11-25 07:58:40 --> Helper loaded: security_helper
+INFO - 2025-11-25 07:58:40 --> Helper loaded: url_helper
+INFO - 2025-11-25 07:58:40 --> Helper loaded: form_helper
+INFO - 2025-11-25 07:58:40 --> Database Driver Class Initialized
+DEBUG - 2025-11-25 07:58:40 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2025-11-25 07:58:40 --> Session: Class initialized using 'files' driver.
+INFO - 2025-11-25 07:58:40 --> Controller Class Initialized
+INFO - 2025-11-25 13:58:40 --> File loaded: C:\xampp\htdocs\_damayraya\application\views\halaman_presentasi.php
+INFO - 2025-11-25 13:58:40 --> Final output sent to browser
+DEBUG - 2025-11-25 13:58:40 --> Total execution time: 0.0520
+INFO - 2025-11-25 07:58:45 --> Config Class Initialized
+INFO - 2025-11-25 07:58:45 --> Hooks Class Initialized
+DEBUG - 2025-11-25 07:58:45 --> UTF-8 Support Enabled
+INFO - 2025-11-25 07:58:45 --> Utf8 Class Initialized
+INFO - 2025-11-25 07:58:45 --> URI Class Initialized
+INFO - 2025-11-25 07:58:45 --> Router Class Initialized
+INFO - 2025-11-25 07:58:45 --> Output Class Initialized
+INFO - 2025-11-25 07:58:45 --> Security Class Initialized
+DEBUG - 2025-11-25 07:58:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-11-25 07:58:45 --> Input Class Initialized
+INFO - 2025-11-25 07:58:45 --> Language Class Initialized
+INFO - 2025-11-25 07:58:45 --> Loader Class Initialized
+INFO - 2025-11-25 07:58:45 --> Helper loaded: security_helper
+INFO - 2025-11-25 07:58:45 --> Helper loaded: url_helper
+INFO - 2025-11-25 07:58:45 --> Helper loaded: form_helper
+INFO - 2025-11-25 07:58:45 --> Database Driver Class Initialized
+DEBUG - 2025-11-25 07:58:45 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2025-11-25 07:58:45 --> Session: Class initialized using 'files' driver.
+INFO - 2025-11-25 07:58:45 --> Controller Class Initialized
+INFO - 2025-11-25 13:58:45 --> File loaded: C:\xampp\htdocs\_damayraya\application\views\halaman_presentasi.php
+INFO - 2025-11-25 13:58:45 --> Final output sent to browser
+DEBUG - 2025-11-25 13:58:45 --> Total execution time: 0.0344

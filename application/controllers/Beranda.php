@@ -115,7 +115,57 @@ class Beranda extends CI_Controller
         $this->load->view('halaman_tentang', $data);
     } 
 
-    
+    public function presentasi()
+    {
+        $seo = $this->db->query("SELECT * FROM table_setup WHERE id_setup = '1'")->row_array();
+
+        // Daftar produk + file PPTX
+        // NOTE:
+        // - Simpan file di: assets/ppt/...
+        // - Pastikan domain kamu pakai HTTPS biar Office Viewer mau embed
+        $products = [
+            [
+                'nama'      => 'PILARBOMBA 53 / 106 SC',
+                'kategori'  => 'Insektisida',
+                'thumbnail' => base_url('assets/assetss/newImage2/2.png'),
+                'ppt_file'  => base_url('assets/ppt1.pptx'),
+            ],
+            [
+                'nama'      => 'PILARTRUST 100 SC',
+                'kategori'  => 'Insektisida',
+                'thumbnail' => base_url('assets/assetss/newImage2/3.png'),
+                'ppt_file'  => base_url('assets/ppt1.pptx'),
+            ],
+            [
+                'nama'      => 'PILARGOLA 400 SC',
+                'kategori'  => 'Herbisida',
+                'thumbnail' => base_url('assets/assetss/newImage2/4.png'),
+                'ppt_file'  => base_url('assets/ppt1.pptx'),
+            ],
+            // Tambah produk lain di sini...
+        ];
+
+        // Siapkan URL viewer Office Online untuk tiap PPT
+        foreach ($products as &$p) {
+            $p['viewer_url'] = 'https://view.officeapps.live.com/op/embed.aspx?src=' . urlencode($p['ppt_file']);
+        }
+        unset($p);
+
+        $data = array(
+            'seoTitle'  => $seo['seo_title'] . ' - Presentasi Produk',
+            'seoDesc'   => $seo['seo_desc'],
+            'seoKey'    => $seo['seo_keyword'],
+            'seoAuthor' => $seo['seo_author'],
+            'nomorWa'   => $seo['nomorwa'],
+            'linkFb'    => $seo['linkfb'],
+            'linkTiktok'=> $seo['linktiktok'],
+            'linkIg'    => $seo['linkig'],
+            'products'  => $products,
+        );
+
+        $this->load->view('halaman_presentasi', $data);
+    }
+
     
 }
 ?>
