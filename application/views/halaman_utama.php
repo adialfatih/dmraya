@@ -233,7 +233,7 @@
                 <img src="<?=base_url('assets/');?>assetss/newImage2/FUNGI.png" alt="Katalog Fungisida" loading="lazy" onclick="showProduk('Fungisida')">
             </div>
             <div class="katalog-produk" id="idKatalogProduk">
-                <div class="dtproduk">
+                <!-- <div class="dtproduk">
                     <div class="wrapper23">
                         <img src="<?=base_url('assets/');?>assetss/newImage2/Screenshot_1.jpg" alt="PILARBIT 27 / 102 SC" loading="lazy">
                         <div class="desc">
@@ -244,7 +244,7 @@
                         </div>
                         
                     </div>
-                </div>
+                </div> -->
                 <div class="dtproduk">
                     <div class="wrapper23">
                         <img src="<?=base_url('assets/');?>assetss/newImage2/1.png" alt="PILARWIN 112 / 168 ZC" loading="lazy">
@@ -281,7 +281,7 @@
                         
                     </div>
                 </div>
-                <div class="dtproduk">
+                <!-- <div class="dtproduk">
                     <div class="wrapper23">
                         <img src="<?=base_url('assets/');?>assetss/newImage2/4.png" alt="PILARGOLA 400 SC" loading="lazy">
                         <div class="desc">
@@ -292,7 +292,7 @@
                         </div>
                         
                     </div>
-                </div>
+                </div> -->
                 <div class="dtproduk">
                     <div class="wrapper23">
                         <img src="<?=base_url('assets/');?>assetss/newImage2/7.png" alt="PILARZOX 85 / 170 SC" loading="lazy">
@@ -305,7 +305,7 @@
                         
                     </div>
                 </div>
-                <div class="dtproduk">
+                <!-- <div class="dtproduk">
                     <div class="wrapper23">
                         <img src="<?=base_url('assets/');?>assetss/newImage2/8.png" alt="PILARSPIRIT 20 / 147 OD" loading="lazy">
                         <div class="desc">
@@ -316,7 +316,7 @@
                         </div>
                         
                     </div>
-                </div>
+                </div> -->
                 <div class="dtproduk">
                     <div class="wrapper23">
                         <img src="<?=base_url('assets/');?>assetss/newImage2/9.png" alt="PILARTEBU 430 SC" loading="lazy">

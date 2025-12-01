@@ -407,7 +407,7 @@ class Data extends CI_Controller
         <?php
     } elseif($produk == "Herbisida"){
         ?>
-                <div class="dtproduk">
+                <!-- <div class="dtproduk">
                     <div class="wrapper23">
                         <img src="<?=base_url('assets/');?>assetss/newImage2/4.png" alt="PILARGOLA 400 SC" loading="lazy">
                         <div class="desc">
@@ -430,7 +430,7 @@ class Data extends CI_Controller
                         </div>
                         
                     </div>
-                </div>
+                </div> -->
         <?php
     } elseif($produk == "Fungisida"){
         ?>

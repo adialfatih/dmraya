@@ -89,7 +89,7 @@
         
     </header>
     <main>
-        <section class="company mt0">
+        <!-- <section class="company mt0">
             <div class="newTipe">
                 <div class="judulKatalog">
                     <img src="<?=base_url('assets/');?>assetss/newImage2/INSEK.png" alt="Katalog Insektisida" loading="lazy" onclick="showProduk('Insektisida')">
@@ -138,10 +138,15 @@
                 </div>
             </div>
         </section>
-        <div class="pemisah">&nbsp;</div>
+        <div class="pemisah">&nbsp;</div> -->
         
-        <section class="company">
+        <!-- <section class="company mt0">
             <div class="newTipe">
+                <div class="judulKatalog">
+                    <img src="<?=base_url('assets/');?>assetss/newImage2/INSEK.png" alt="Katalog Insektisida" loading="lazy" onclick="showProduk('Insektisida')">
+                    <img src="<?=base_url('assets/');?>assetss/newImage2/HERBI.png" alt="Katalog Herbisida" loading="lazy" onclick="showProduk('Herbisida')">
+                    <img src="<?=base_url('assets/');?>assetss/newImage2/FUNGI.png" alt="Katalog Fungisida" loading="lazy" onclick="showProduk('Fungisida')">
+                </div>
                 <div class="company22">
                     <div class="leftcompanynew">
                         <div class="tesproduk">
@@ -177,7 +182,7 @@
                     
                 </div>
             </div>
-        </section>
+        </section> -->
         <section class="microtext">
             Jangan biarkan hama merusak usaha keras Anda. Dapatkan obat hama terbaik dari kami dan nikmati hasil panen yang melimpah serta berkualitas tinggi. Yuk, mulai sekarang juga dan lihat perbedaannya!
         </section>

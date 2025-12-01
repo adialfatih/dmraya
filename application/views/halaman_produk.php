@@ -89,14 +89,14 @@
         
     </header>
     <main>
-        <section class="company mt0">
+        <!-- <section class="company mt0">
             <div class="newTipe">
                 <div class="judulKatalog">
                     <img src="<?=base_url('assets/');?>assetss/newImage2/INSEK.png" alt="Katalog Insektisida" loading="lazy" onclick="showProduk('Insektisida')">
                     <img src="<?=base_url('assets/');?>assetss/newImage2/HERBI.png" alt="Katalog Herbisida" loading="lazy" onclick="showProduk('Herbisida')">
                     <img src="<?=base_url('assets/');?>assetss/newImage2/FUNGI.png" alt="Katalog Fungisida" loading="lazy" onclick="showProduk('Fungisida')">
-                </div>
-                <div class="company22">
+                </div> -->
+                <!-- <div class="company22">
                     <div class="leftcompanynew">
                         <div class="tesproduk">
                             <img src="<?=base_url('assets/');?>assetss/newImage2/Screenshot_1.jpg" alt="PILARBIT 27 / 102 SC" loading="lazy">
@@ -131,13 +131,17 @@
                         </div>
                     </div>
                     
-                </div>
-            </div>
+                </div> -->
+            <!-- </div>
         </section>
-        <div class="pemisah">&nbsp;</div>
-        <section class="company">
+        <div class="pemisah">&nbsp;</div> -->
+        <section class="company mt0">
             <div class="newTipe">
-                
+                <div class="judulKatalog">
+                    <img src="<?=base_url('assets/');?>assetss/newImage2/INSEK.png" alt="Katalog Insektisida" loading="lazy" onclick="showProduk('Insektisida')">
+                    <img src="<?=base_url('assets/');?>assetss/newImage2/HERBI.png" alt="Katalog Herbisida" loading="lazy" onclick="showProduk('Herbisida')">
+                    <img src="<?=base_url('assets/');?>assetss/newImage2/FUNGI.png" alt="Katalog Fungisida" loading="lazy" onclick="showProduk('Fungisida')">
+                </div>
                 <div class="company22">
                     <div class="leftcompanynew">
                         <div class="tesproduk">
@@ -288,7 +292,7 @@
                 </div>
             </div>
         </section>
-        <div class="pemisah">&nbsp;</div>
+        <!-- <div class="pemisah">&nbsp;</div>
         <section class="company">
             <div class="newTipe">
                 <div class="company22">
@@ -332,7 +336,7 @@
                     </div>
                 </div>
             </div>
-        </section>
+        </section> -->
         <div class="pemisah">&nbsp;</div>
         <section class="company">
             <div class="newTipe">
@@ -376,7 +380,7 @@
             </div>
         </section>
         <div class="pemisah">&nbsp;</div>
-        <section class="company">
+        <!-- <section class="company">
             <div class="newTipe">
                 <div class="company22">
                     <div class="leftcompanynew">
@@ -414,7 +418,7 @@
                 </div>
             </div>
         </section>
-        <div class="pemisah">&nbsp;</div>
+        <div class="pemisah">&nbsp;</div> -->
         <section class="company">
             <div class="newTipe">
                 <div class="company22">
